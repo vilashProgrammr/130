@@ -5,6 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//This machines is launched from normal bootup (5 minutes)
+	//as no instance was present in the buffer
 	
 }
 // delete condition

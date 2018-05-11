@@ -5,6 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//This is second candidate test from same buffered machine
+	//this is second invited test going on
+	//and machine was available in buffer so assigned for thistest
 	
 }
 // delete condition

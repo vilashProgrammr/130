@@ -5,6 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//Test 11May2018
+	//Machine launched from buffer first invite
+	
 	
 }
 // delete condition
